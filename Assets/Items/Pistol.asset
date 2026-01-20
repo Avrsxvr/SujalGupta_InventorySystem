@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6ef84ee4243e6c344b40cedba8e14e23, type: 3}
+  m_Name: Pistol
+  m_EditorClassIdentifier: Assembly-CSharp::WeaponItem
+  ItemId: 7
+  ItemName: Pistol
+  Icon: {fileID: 21300000, guid: 25350c143633abc45a4fa778d0a9cdc5, type: 3}
+  Description: 
+  IsStackable: 0
+  worldPrefab: {fileID: 5992065931656594789, guid: 11de4ddeddc3f8b4d9652e70a4607414, type: 3}
+  weaponPrefab: {fileID: 5992065931656594789, guid: 11de4ddeddc3f8b4d9652e70a4607414, type: 3}
+  ammoType: {fileID: 11400000, guid: f7ac44315993377468de04ca41264530, type: 2}
+  holdOffset: {x: 0, y: 0, z: 0}
+  holdRotation: {x: 0, y: 0, z: 0}
