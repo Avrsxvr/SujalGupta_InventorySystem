@@ -39,10 +39,10 @@ The game demonstrates how a player picks up items, manages inventory, equips wea
 | Move | WASD |
 | Look | Mouse |
 | Pick up item | **E** |
-| Fire weapon | **Mouse Click** |
-| Open / Close Inventory | **Tab / I** |
+| Fire weapon | **TAB** |
+| Open / Close Inventory | **I** |
 | Drop selected item | **Q** |
-| Close inventory | ❌ (UI Button) |
+| Open / Close Help | **H** |
 
 ---
 
